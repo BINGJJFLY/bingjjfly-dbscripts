@@ -1,0 +1,3 @@
+Global database name：orcl
+SID：orcl
+Password：oracle11g
